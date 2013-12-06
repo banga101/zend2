@@ -1,0 +1,1 @@
+/var/www/CommunicationApp/vendor/zendframework/zftool/zf.php
