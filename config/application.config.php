@@ -9,7 +9,8 @@ return array(
     'modules' => array(
         'Application',
         'Users',
-        'Users2'
+        'Users2',
+        'Cart'
         ),
     'module_listener_options' => array(
         'module_paths' => array(
